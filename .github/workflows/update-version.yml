@@ -22,7 +22,7 @@ jobs:
           NEXT_VERSION=$(jq -r '.version' web/package.json)
           echo "next=$NEXT_VERSION" >> $GITHUB_OUTPUT
           NEST_VERSION=$(jq -r '.version' backend/package.json)
-          echo "nest=$NEsT_VERSION" >> $GITHUB_OUTPUT
+          echo "nest=$NEST_VERSION" >> $GITHUB_OUTPUT
 
           IOS_VERSION="NA"
           PBXPROJ=$(find . -name "project.pbxproj" | head -n 1)
