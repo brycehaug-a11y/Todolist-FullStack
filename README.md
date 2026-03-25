@@ -21,6 +21,6 @@ Backend Website:
     todolist-full-stack-backend.vercel.app
 ```
 # Project Versions
-iOS - <!--ios_vervion-->NA<!--ios_vervion_end-->
-Next.js - <!--next_vervion-->NA<!--next_vervion_end-->
-Nest - <!--nest_vervion-->NA <!--nest_vervion_end-->
+iOS - <!--IOS_VERSION-->NA<!--IOS_VERSION_END-->
+Next.js - <!--NEXT_VERSION-->NA<!--NEXT_VERSION_END-->
+Nest - <!--NEST_VERSION-->NA <!--NEST_VERSION_END-->
